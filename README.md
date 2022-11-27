@@ -1,2 +1,2 @@
-# Main-Estad-stica
+# Main-Estadstica
 Practica Final Estadística en R
